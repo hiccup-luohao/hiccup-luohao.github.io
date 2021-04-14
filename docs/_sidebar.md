@@ -4,4 +4,5 @@
 
 * 知识积累
     * [can](record/can/)
+    * [can1](record/can/)
 
