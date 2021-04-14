@@ -1,10 +1,7 @@
 <!-- docs/_sidebar.md -->
 
-* [首页](/)
-* [指南](guide)
+* [首页](README)
 
-* 前端技术
-    * [javascript](01/javascript/)
-    * [echarts](01/echarts/)
+* 知识积累
+    * [can](record/can/)
 
-* sever技术

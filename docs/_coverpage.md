@@ -1,14 +1,14 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](pic/logo.jpeg)
 
-# docsify <small>3.5</small>
+# docsify <small>luohao</small>
 
 > 笔记记录
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+>勤于思考 乐于分享
+
+
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#Headline)
+[我的博客](README)
